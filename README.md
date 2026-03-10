@@ -19,8 +19,9 @@ The app allows users to add, view, and categorize expenses with a clean and mini
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/1.jpg)
+## Screenshots
 
-### Add Expense
-![Add Expense](screenshots/2.jpg)
+<p align="center">
+  <img src="screenshots/1.jpg" width="250" style="margin-right:10px"/>
+  <img src="screenshots/2.jpg" width="250"/>
+</p>
